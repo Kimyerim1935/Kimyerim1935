@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ### About Me
 Blog 👉 [yerim's blog](https://velog.io/@yerim1935) <br/>
