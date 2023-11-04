@@ -59,7 +59,9 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
 
 ### 🕐 Wakatime
   <!--START_SECTION:waka-->
-  LOCALE: "ko"
+  <!--END_SECTION:waka-->
+
+    LOCALE: "ko"
 SHOW_LINES_OF_CODE: "True"
 SHOW_PROFILE_VIEWS: "False"
 SHOW_DAYS_OF_WEEK: "False"
@@ -67,4 +69,3 @@ SHOW_SHORT_INFO: "False"
 SHOW_LOC_CHART: "False"
 SHOW_PROJECTS: "False"
 SHOW_LANGUAGE_PER_REPO: "False"
-  <!--END_SECTION:waka-->
