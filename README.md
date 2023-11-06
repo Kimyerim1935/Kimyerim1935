@@ -132,12 +132,4 @@ C++                      1 repo              ░░░░░░░░░░░�
 Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Kimyerim1935/Kimyerim1935/main/assets/bar_graph.png)
-
-
- Last Updated on 06/11/2023 02:25:02 UTC
 <!--END_SECTION:waka-->
