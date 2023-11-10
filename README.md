@@ -60,7 +60,7 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
 
 ### 🕐 Wakatime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%204%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -92,5 +92,5 @@ Windows                  16 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 10/11/2023 13:26:11 UTC
+ Last Updated on 10/11/2023 14:27:21 UTC
 <!--END_SECTION:waka-->
