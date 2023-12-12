@@ -39,9 +39,9 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
   <img src="https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /> 
   <br/>
    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="confluence" />
+   <img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="confluence" />
    <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="storybook" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
    <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat&logo=AdobeXd&logoColor=white" alt="AdobeXd" />
   <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat&logo=Adobephotoshop&logoColor=white" alt="Adobephotoshop" />
 </div>
