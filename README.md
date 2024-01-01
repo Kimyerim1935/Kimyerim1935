@@ -58,6 +58,10 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
 </a>
   </div>
 
+
+### BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim1935)](https://solved.ac/yerim1935/)
+
 ### 🕐 Wakatime
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%203%20mins-blue)
