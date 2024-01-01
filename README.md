@@ -59,7 +59,7 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
   </div>
 
 
-### BAEKJOON
+### ✨ BAEKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim1935)](https://solved.ac/yerim1935/)
 
 ### 🕐 Wakatime
