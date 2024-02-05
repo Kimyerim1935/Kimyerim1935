@@ -37,6 +37,7 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
   <img src="https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat&logo=Airbnb&logoColor=white" alt="Airbnb" />
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E" alt="Prettier" />
   <img src="https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /> 
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="vercel" />
   <br/>
    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira" />
    <img src="https://img.shields.io/badge/confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="confluence" />
