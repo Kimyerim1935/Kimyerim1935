@@ -10,7 +10,6 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=node&logoColor=%23F7DF1E" alt="node" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
   <br/>
@@ -53,10 +52,10 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyerim1935&show_icons=true&theme=dracula&card_width=270" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyerim1935&show_icons=true&theme=cobalt&card_width=270" alt="Anurag's GitHub stats" />
 </a
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyerim1935&layout=compact&theme=dracula&card_width=400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyerim1935&layout=compact&theme=cobalt&card_width=400" alt="Top Langs" />
 </a>
   </div>
 
@@ -64,7 +63,7 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
 ### ✨ BAEKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim1935)](https://solved.ac/yerim1935/)
 <a href="https://solved.ac/yerim1935">
-  <img src="http://mazandi.herokuapp.com/api?handle=yerim1935&theme=dark"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=yerim1935&theme=cold"/>
 </a>
 
 ### 🕐 Wakatime
