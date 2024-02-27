@@ -47,24 +47,24 @@ Resume 👉 [Resume](https://www.notion.so/Kim-Ye-Lim-2f3473c6b530419aa17f175a92
   <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat&logo=Adobephotoshop&logoColor=white" alt="Adobephotoshop" />
 </div>
 
-  ### 👻 Github states
-  <div>
-    
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyerim1935&show_icons=true&theme=cobalt&card_width=270" alt="Anurag's GitHub stats" />
-</a
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyerim1935&layout=compact&theme=cobalt&card_width=400" alt="Top Langs" />
-</a>
-  </div>
-
-
-### ✨ BAEKJOON
+  ### ✨ BAEKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim1935)](https://solved.ac/yerim1935/)
 <a href="https://solved.ac/yerim1935">
   <img src="http://mazandi.herokuapp.com/api?handle=yerim1935&theme=cold"/>
 </a>
+
+  ### 👻 Github states
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=kimyerim1935&show_icons=true&theme=cobalt&card_width=300&card_height=200" alt="kimyerim1935's GitHub stats" />
+    </a></br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyerim1935&layout=compact&theme=cobalt&card_width=700" alt="Top Langs" />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimyerim1935&theme=cobalt&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=90%/>
+    </a>
+  </div>
 
 ### 🕐 Wakatime
   <!--START_SECTION:waka-->
